@@ -1,0 +1,22 @@
+[
+    {
+        "login": "admin",
+        "email": "admin@pigeon.ru",
+        "hash": "01033e422ba2670eb7ab37220e36b22ac3bb9a781b41be10af188db8d9b31914"
+    },
+    {
+        "login": "user",
+        "email": "user@pigeon.ru",
+        "hash": "4ca48b6da8d35d77a57a0247cbcf959c8c787128a6fd43afc4ad8bb7db30903b"
+    },
+    {
+        "login": "iris",
+        "email": "iris@pigeon.ru",
+        "hash": "07f1e0423a11ec90de1fbdc720dd702f70fd23851f3d198440e486213feed48d"
+    },
+    {
+        "login": "daniil",
+        "email": "daniil@pigeon.ru",
+        "hash": "66aecd3aec15dfc23cf6caf62d623cc449415818304749e9e3c1912c34fe806a"
+    }
+]

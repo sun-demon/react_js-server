@@ -1,0 +1,38 @@
+[
+    {
+        "login": "anonymous",
+        "text": "He everybody, I change the news!"
+    },
+    {
+        "login": "admin",
+        "text": "Warning! Anonymous write the new below to our site!"
+    },
+    {
+        "login": "user",
+        "text": "Ye... May be the news a popular?"
+    },
+    {
+        "login": "iris",
+        "text": "What I'm doing here? Where are pigeons?"
+    },
+    {
+        "login": "pigeon",
+        "text": "He, I'm here."
+    },
+    {
+        "login": "user",
+        "text": "my news"
+    },
+    {
+        "login": "admin",
+        "text": "ye, your news..."
+    },
+    {
+        "login": "admin",
+        "text": "auuuu"
+    },
+    {
+        "login": "iris",
+        "text": "\u0444\u0443\u0445, \u0430 \u044d\u0442\u043e \u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430"
+    }
+]
